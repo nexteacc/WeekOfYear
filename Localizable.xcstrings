@@ -1,0 +1,36 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "A Week is 2% of a Year" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一周是一年的2%"
+          }
+        }
+      }
+    },
+    "Week Countdown" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "周时"
+          }
+        }
+      }
+    },
+    "Your weeks this year" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "剩余周数"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
